@@ -13,3 +13,6 @@
 updated
 NEW PC TO SWITCH 1 168.90.0.6
 TO SWITCH 2:210.3.14.5
+
+## DHCP Configuration
+- Enable DHCP on the router:
