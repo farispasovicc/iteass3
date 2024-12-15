@@ -1,0 +1,11 @@
+## Devices in the Network
+- **Router**: Cisco 1941
+- **Switch 1**: Cisco 2960
+- **Switch 2**: Cisco 2960
+- **PCs, Laptops, and Servers**:
+  - PC1 (Switch 1): Assigned IP: 168.90.0.4
+  - Laptop (Switch 1): Assigned IP: 168.90.0.2
+  - Server1 (Switch 1): Assigned IP: 168.90.0.3
+  - PC2 (Switch 2): Assigned IP: 210.3.14.2
+  - Server2 (Switch 2): Assigned IP: 210.3.14.3
+  - Server3 (Switch 2): Assigned IP: 210.3.14.4
