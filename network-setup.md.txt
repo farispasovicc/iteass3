@@ -9,3 +9,7 @@
   - PC2 (Switch 2): Assigned IP: 210.3.14.2
   - Server2 (Switch 2): Assigned IP: 210.3.14.3
   - Server3 (Switch 2): Assigned IP: 210.3.14.4
+
+updated
+NEW PC TO SWITCH 1 168.90.0.6
+TO SWITCH 2:210.3.14.5
